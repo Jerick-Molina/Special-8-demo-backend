@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestHTTP", "BestHTTP.csproj", "{4D76B3FB-9A6F-36D7-3D75-F8A81B7541BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{115E0DB1-812A-65F6-55B3-1160E1E73A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D76B3FB-9A6F-36D7-3D75-F8A81B7541BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D76B3FB-9A6F-36D7-3D75-F8A81B7541BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D76B3FB-9A6F-36D7-3D75-F8A81B7541BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D76B3FB-9A6F-36D7-3D75-F8A81B7541BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115E0DB1-812A-65F6-55B3-1160E1E73A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115E0DB1-812A-65F6-55B3-1160E1E73A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115E0DB1-812A-65F6-55B3-1160E1E73A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115E0DB1-812A-65F6-55B3-1160E1E73A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
